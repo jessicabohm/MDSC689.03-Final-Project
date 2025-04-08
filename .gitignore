@@ -3,3 +3,6 @@
 /unprocessed_data/*
 /data/*
 /data_prev/*
+/temp_analysis/*
+/report/*
+/other/*
